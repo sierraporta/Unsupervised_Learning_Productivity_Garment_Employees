@@ -8,3 +8,13 @@ For the following work we have used the dataset called garments worker productiv
 1. Abdullah Al Imran, Md Shamsur Rahim, and Tanvir Ahmed. Mining the productivity data of the garment industry. International Journal of Business Intelligence and Data Mining, 19(3):319–342, 2021.
 2. Abdullah Al Imran, Md Nur Amin, Md Rifatul Islam Rifat, and Shamprikta Mehreen. Deep neural network approach for predicting the productivity of garment employees. In 2019 6th International Conference on Control, Decision and Information Technologies (CoDIT), pages 1402–1407. IEEE, 2019. http://doir.org/
 10.1109/CoDIT.2019.8820486.
+
+## Support on this repository:
+Unsupervised Learning and Data Mining Approach for Predicting the Productivity of Garment Employees
+D. Sierra-Porta(a,b,*) and A. Domínguez-Monterroza(a,c)
+(a) Facultad de Ciencias B ́asicas. Universidad Tecnol ́ogica de Bolivar, Parque Industrial y Tecnológico Carlos Vélez Pombo Km 1 Vía Turbaco, Cartagena de Indias, 130010, Colombia.
+(b) D. Sierra-Porta (orcid=0000-0003-3461-1347)
+(c) A. Domínguez-Monterroza (orcid=0000-0002-5274-7443)
+(*) Corresponding author: dporta@utb.edu.co
+
+This work is under consideration in journal.
