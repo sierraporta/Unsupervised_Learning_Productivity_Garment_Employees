@@ -12,7 +12,7 @@ For the following work we have used the dataset called garments worker productiv
 ## Support on this repository:
 Unsupervised Learning and Data Mining Approach for Predicting the Productivity of Garment Employees
 D. Sierra-Porta(a,b,*) and A. Domínguez-Monterroza(a,c)
-(a) Facultad de Ciencias B ́asicas. Universidad Tecnol ́ogica de Bolivar, Parque Industrial y Tecnológico Carlos Vélez Pombo Km 1 Vía Turbaco, Cartagena de Indias, 130010, Colombia.
+(a) Facultad de Ciencias Básicas. Universidad Tecnológica de Bolivar, Parque Industrial y Tecnológico Carlos Vélez Pombo Km 1 Vía Turbaco, Cartagena de Indias, 130010, Colombia.
 (b) D. Sierra-Porta (orcid=0000-0003-3461-1347)
 (c) A. Domínguez-Monterroza (orcid=0000-0002-5274-7443)
 (*) Corresponding author: dporta@utb.edu.co
