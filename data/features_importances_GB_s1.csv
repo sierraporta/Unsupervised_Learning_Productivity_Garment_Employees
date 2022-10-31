@@ -1,0 +1,15 @@
+Features,Importances
+targeted_productivity,0.19
+idle_men,0.17
+Department,0.16
+incentive,0.1
+smv,0.06
+idle_time,0.06
+Quarter,0.05
+no_of_workers,0.05
+team,0.04
+wip_rf,0.04
+over_time,0.03
+Day,0.02
+Month,0.01
+no_of_style_change,0.01
