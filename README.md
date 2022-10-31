@@ -15,4 +15,4 @@ Unsupervised Learning and Data Mining Approach for Predicting the Productivity o
 
 **D. Sierra-Porta**. Facultad de Ciencias Básicas. Universidad Tecnológica de Bolivar, Parque Industrial y Tecnológico Carlos Vélez Pombo Km 1 Vía Turbaco, Cartagena de Indias, 130010, Colombia. D. Sierra-Porta (orcid=0000-0003-3461-1347). Corresponding author: dporta@utb.edu.co
 
-This [work](https://github.com/sierraporta/Unsupervised_Learning_Productivity_Garment_Employees/main.pdf) is under consideration in journal.
+This [work](https://github.com/sierraporta/Unsupervised_Learning_Productivity_Garment_Employees/blob/main/main.pdf) is under consideration in journal.
